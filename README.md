@@ -22,3 +22,4 @@ También, nos llama la atención que en los datos que recolectamos existe una au
 
 Por otra parte, cabe recalcar la frecuencia de las palabras "day" y "night" la cual, "day" es más frecuente que "night". Esto ocurre porque la obra de David Copperfield al ser la más extensa tiene más palabras y curiosamente utiliza la palabra "day" (esto también nos indica como se desarrollan las escenas y el tiempo del día en que ocurren). Esto se diferencia de las dos obras A christmas carol y Great expectations las cuales recurren más a la palabra "night". 
 
+Datos de Voyant tools: https://voyant-tools.org/?corpus=b2111345c64d1c5daba060b46641205b 
